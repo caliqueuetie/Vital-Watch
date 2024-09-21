@@ -1,0 +1,372 @@
+.component-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.component-meet {
+  gap: var(--dl-space-space-fiveunits);
+  width: 100%;
+  height: 1592px;
+  display: flex;
+  align-items: center;
+  padding-top: 120px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: 11px;
+  flex-direction: column;
+  padding-bottom: 19px;
+  background-color: #ffffff;
+}
+.component-heading {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-text {
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text01 {
+  font-size: 18px;
+  max-width: 700px;
+  text-align: center;
+  line-height: 27px;
+}
+.component-doctors {
+  gap: var(--dl-space-space-threeunits);
+  width: 932px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.component-doctor {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image {
+  width: 247px;
+  height: 394px;
+  object-fit: cover;
+}
+.component-heading1 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-text02 {
+  width: 100%;
+  font-size: 24px;
+  max-width: 270px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text03 {
+  width: 100%;
+  font-size: 14px;
+  max-width: 240px;
+  text-align: center;
+  line-height: 21px;
+}
+.component-doctor1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image1 {
+  width: 270px;
+  height: 385px;
+  object-fit: cover;
+}
+.component-heading2 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-text10 {
+  width: 100%;
+  font-size: 24px;
+  max-width: 270px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text11 {
+  width: 100%;
+  font-size: 14px;
+  max-width: 240px;
+  text-align: center;
+  line-height: 21px;
+}
+.component-doctor2 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-heading3 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image2 {
+  width: 351px;
+  height: 311px;
+  object-fit: cover;
+}
+.component-text17 {
+  width: 100%;
+  font-size: 24px;
+  max-width: 270px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text18 {
+  width: 100%;
+  font-size: 14px;
+  max-width: 240px;
+  text-align: center;
+  line-height: 21px;
+}
+.component-doctor3 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-doctors1 {
+  gap: var(--dl-space-space-threeunits);
+  width: 718px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.component-doctor4 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-doctor5 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image3 {
+  width: 284px;
+  height: 393px;
+  object-fit: cover;
+}
+.component-heading4 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-text24 {
+  width: 100%;
+  font-size: 24px;
+  max-width: 270px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text25 {
+  width: 100%;
+  font-size: 14px;
+  max-width: 240px;
+  text-align: center;
+  line-height: 21px;
+}
+.component-doctor6 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image4 {
+  width: 270px;
+  height: 385px;
+  object-fit: cover;
+}
+.component-heading5 {
+  gap: var(--dl-space-space-unit);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.component-text31 {
+  width: 100%;
+  font-size: 24px;
+  max-width: 270px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component-text32 {
+  width: 100%;
+  font-size: 14px;
+  max-width: 240px;
+  text-align: center;
+  line-height: 21px;
+}
+.component-doctor7 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  position: relative;
+  max-width: 270px;
+  align-items: center;
+  flex-direction: column;
+}
+.component-image5 {
+  width: 100px;
+  object-fit: cover;
+}
+@media(max-width: 1200px) {
+  .component-image2 {
+    width: 263px;
+    height: 372px;
+  }
+}
+@media(max-width: 991px) {
+  .component-meet {
+    padding-right: 0px;
+  }
+  .component-heading {
+    padding-right: var(--dl-space-space-fiveunits);
+  }
+  .component-doctors {
+    overflow: hidden;
+  }
+  .component-doctors1 {
+    overflow: hidden;
+  }
+}
+@media(max-width: 767px) {
+  .component-meet {
+    gap: var(--dl-space-space-threeunits);
+    padding-top: var(--dl-space-space-fourunits);
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .component-heading {
+    gap: var(--dl-space-space-unit);
+    padding-right: 0px;
+  }
+  .component-text {
+    font-size: 24px;
+  }
+  .component-text01 {
+    font-size: 14px;
+    max-width: 80%;
+  }
+  .component-doctors {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .component-text02 {
+    font-size: 16px;
+    max-width: 200px;
+    line-height: 24px;
+  }
+  .component-text03 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+  .component-text04 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+  .component-image1 {
+    width: 200px;
+  }
+  .component-text10 {
+    font-size: 16px;
+    max-width: 200px;
+    line-height: 24px;
+  }
+  .component-text11 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+  .component-text17 {
+    font-size: 16px;
+    max-width: 200px;
+    line-height: 24px;
+  }
+  .component-text18 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+  .component-doctors1 {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .component-image3 {
+    width: 200px;
+  }
+  .component-text24 {
+    font-size: 16px;
+    max-width: 200px;
+    line-height: 24px;
+  }
+  .component-text25 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+  .component-image4 {
+    width: 200px;
+  }
+  .component-text31 {
+    font-size: 16px;
+    max-width: 200px;
+    line-height: 24px;
+  }
+  .component-text32 {
+    font-size: 12px;
+    max-width: 200px;
+    line-height: 18px;
+  }
+}

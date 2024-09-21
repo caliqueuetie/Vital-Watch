@@ -1,0 +1,377 @@
+.component1-container {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.component1-about-the-product {
+  gap: var(--dl-space-space-fiveunits);
+  width: 100%;
+  height: 1032px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  padding-top: 120px;
+  padding-left: var(--dl-space-space-fiveunits);
+  padding-right: var(--dl-space-space-fiveunits);
+  flex-direction: column;
+  padding-bottom: 120px;
+  background-color: #ffffff;
+}
+.component1-icon {
+  width: 24px;
+  height: 24px;
+}
+.component1-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 1031px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component1-container2 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.component1-text03 {
+  right: -876px;
+  bottom: -41px;
+  position: absolute;
+  font-size: 18px;
+  max-width: 700px;
+  text-align: center;
+  line-height: 27px;
+}
+.component1-text04 {
+  right: -876px;
+  bottom: -41px;
+  position: absolute;
+  font-size: 18px;
+  max-width: 700px;
+  text-align: center;
+  line-height: 27px;
+}
+.component1-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.component1-icon4 {
+  width: 24px;
+  height: 24px;
+}
+.component1-icon6 {
+  width: 24px;
+  height: 24px;
+}
+.component1-text12 {
+  right: -876px;
+  bottom: -41px;
+  position: absolute;
+  font-size: 18px;
+  max-width: 700px;
+  text-align: center;
+  line-height: 27px;
+}
+.component1-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  height: 1031px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+.component1-background {
+  top: -7px;
+  left: -12px;
+  width: 136px;
+  height: 1031px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #D0F4FD;
+}
+.component1-image {
+  width: 143px;
+  height: 1067px;
+  object-fit: cover;
+}
+.component1-text13 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component1-text14 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component1-text15 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component1-text16 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component1-text17 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+.component1-text18 {
+  top: 0px;
+  right: 48px;
+  margin: auto;
+  position: absolute;
+  font-size: 56px;
+  max-width: 600px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 600;
+}
+@media(max-width: 1200px) {
+  .component1-about-the-product {
+    height: 2000px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .component1-icon {
+    top: 107px;
+    left: 473px;
+    width: 198px;
+    height: 116px;
+    position: absolute;
+  }
+  .component1-text {
+    left: -343px;
+    width: 554px;
+    bottom: -633px;
+    position: absolute;
+    font-size: 3.5em;
+  }
+  .component1-text03 {
+    left: -436px;
+    width: 600px;
+    bottom: -594px;
+    height: 230px;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 27px;
+    padding-bottom: 139px;
+  }
+  .component1-text04 {
+    left: -112px;
+    width: 568px;
+    bottom: -815px;
+    height: 230px;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 27px;
+    padding-bottom: 139px;
+  }
+  .component1-text05 {
+    left: -162px;
+    width: 540px;
+    bottom: -400px;
+    position: absolute;
+    font-size: 3.5em;
+    text-align: right;
+    margin-right: 0px;
+  }
+  .component1-text09 {
+    left: -327px;
+    width: 677px;
+    bottom: -857px;
+    position: absolute;
+    font-size: 3.5em;
+    text-align: right;
+    margin-right: 0px;
+  }
+  .component1-icon2 {
+    right: -494px;
+    width: 138px;
+    bottom: -849px;
+    height: 109px;
+    position: absolute;
+  }
+  .component1-icon4 {
+    right: -530px;
+    width: 196px;
+    bottom: -401px;
+    height: 122px;
+    position: absolute;
+  }
+  .component1-icon6 {
+    left: -508px;
+    width: 165px;
+    bottom: -630px;
+    height: 122px;
+    position: absolute;
+  }
+  .component1-text12 {
+    top: 131px;
+    left: -221px;
+    right: 23px;
+    width: 453px;
+    bottom: 0px;
+    height: 230px;
+    position: absolute;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 27px;
+    padding-bottom: 139px;
+  }
+  .component1-background {
+    height: 1512px;
+  }
+  .component1-image {
+    height: 1572px;
+  }
+  .component1-text14 {
+    top: 100px;
+    left: 0px;
+    right: 700px;
+    width: 323px;
+    text-align: left;
+    margin-right: 0px;
+  }
+  .component1-text15 {
+    top: 100px;
+    left: 0px;
+    right: 700px;
+    width: 323px;
+    text-align: left;
+    margin-right: 0px;
+  }
+  .component1-text16 {
+    top: 100px;
+    left: 0px;
+    right: 700px;
+    width: 323px;
+    text-align: left;
+    margin-right: 0px;
+  }
+  .component1-text17 {
+    top: 100px;
+    left: 0px;
+    right: 700px;
+    width: 323px;
+    text-align: left;
+    margin-right: 0px;
+  }
+  .component1-text18 {
+    top: 100px;
+    left: 0px;
+    right: 700px;
+    width: 323px;
+    text-align: left;
+    margin-right: 0px;
+  }
+  .component1-text19 {
+    left: -327px;
+    width: 677px;
+    bottom: -857px;
+    position: absolute;
+    font-size: 3.5em;
+    text-align: right;
+    margin-right: 0px;
+  }
+}
+@media(max-width: 991px) {
+  .component1-about-the-product {
+    gap: var(--dl-space-space-threeunits);
+  }
+  .component1-background {
+    left: 0px;
+    width: 100%;
+    bottom: 0px;
+    height: 55%;
+    position: absolute;
+    justify-content: flex-end;
+  }
+}
+@media(max-width: 767px) {
+  .component1-about-the-product {
+    padding-top: var(--dl-space-space-fourunits);
+    padding-left: var(--dl-space-space-oneandhalfunits);
+    padding-right: var(--dl-space-space-oneandhalfunits);
+    padding-bottom: var(--dl-space-space-fourunits);
+  }
+  .component1-text03 {
+    font-size: 14px;
+    max-width: 80%;
+    line-height: 21px;
+  }
+  .component1-text04 {
+    font-size: 14px;
+    max-width: 80%;
+    line-height: 21px;
+  }
+  .component1-text12 {
+    font-size: 14px;
+    max-width: 80%;
+    line-height: 21px;
+  }
+  .component1-text13 {
+    font-size: 24px;
+  }
+  .component1-text14 {
+    font-size: 24px;
+  }
+  .component1-text15 {
+    font-size: 24px;
+  }
+  .component1-text16 {
+    font-size: 24px;
+  }
+  .component1-text17 {
+    font-size: 24px;
+  }
+  .component1-text18 {
+    font-size: 24px;
+  }
+}
